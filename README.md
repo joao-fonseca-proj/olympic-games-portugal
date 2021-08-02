@@ -16,6 +16,6 @@ React FE + Java BE for keeping track of the Portuguese athletes competing in eac
 
 * Since I didn't get to deploy the app:
 
-![Webpage](images/webpage.jpg)
+![Webpage](images/webpage.JPG)
 
 Similar tables are displayed below, depending on the day.
